@@ -1,0 +1,12 @@
+fastapi
+faststream[rabbit]
+sqlalchemy[asyncio]
+asyncpg
+alembic
+pydantic
+pydantic-settings
+httpx
+tenacity
+python-dotenv
+uvicorn[standard]
+psycopg2-binary
